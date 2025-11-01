@@ -19,7 +19,7 @@ Se realizó un **análisis exploratorio de datos (EDA)**, tratamiento de valores
 | Componente | Descripción | Enlace |
 |-------------|-------------|--------|
 | 🧮 **Notebook Colab** | Análisis completo de los datos: limpieza, visualizaciones, KPIs y modelo predictivo. | [Abrir en Google Colab](https://colab.research.google.com/drive/1dl8r8cq3jX2BNDsKHkBcUPFb6IvdWjFQ?usp=sharing) |
-| 🗂️ **Documento Final** | Informe técnico detallado con introducción, metodología y conclusiones. | [Ver en Google Docs](https://docs.google.com/document/d/1shHS2EDOOKWGX0rfWe5Q2gULYwy59J5s752J7s8pWGg/edit?tab=t.0) |
+| 🗂️ **Documento Final** | Informe técnico detallado con introducción, metodología y conclusiones. | [Ver en Google Docs](https://docs.google.com/document/d/1nWrOslr9Yf7dpE9cQfMIX_Xw47mKgfIfmAdRLKUmXik/edit?tab=t.0) |
 | 🖼️ **Presentación** | Slides utilizados para la exposición del proyecto. | [Ver en Google Slides](https://docs.google.com/presentation/d/18lY8NHH-8NxZUohqg4g9ty7hBnN8oUdBYrdP5HKmRZ8/edit?slide=id.gc6f9e470d_0_0#slide=id.gc6f9e470d_0_0) |
 | 📊 **Dashboard Interactivo** | Panel dinámico de visualización con KPIs y gráficos segmentados en **Google Looker Studio**. | [Abrir Dashboard](https://lookerstudio.google.com/u/0/reporting/28bf7e53-4b54-46c5-910d-80c7cbf2a11f/page/Gg3/edit) |
 
